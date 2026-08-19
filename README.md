@@ -1,8 +1,8 @@
 # Operator-tidak-identik
 
-- pengertian 
+- pengertian <br>
 Operator tidak identik adalah Membandingkan nilai DAN tipe data.  
-Kalau nilai atau tipe datanya beda maka hasilnya `true` <br>
+Kalau nilai atau tipe datanya beda maka hasilnya `true` 
 
 adapun perbedaannya antara operator tidak identik dengan operator tidak sama ialah kalau yang tidak sama, itu dia hanya membandingkan nilainya saja, tipe data nya diabaikan
 
