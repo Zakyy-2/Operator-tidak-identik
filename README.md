@@ -25,3 +25,5 @@ console.log(c != d);  // false -> 0 dianggap sama dengan false<br>
 
 console.log(c !== d); // true  -> number tidak identik dengan boolean<br>
 
+#btw saya kerja dihp, jdi saya kerja seperti ini 🙏
+
